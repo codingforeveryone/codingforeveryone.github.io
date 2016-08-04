@@ -1,7 +1,10 @@
 # CodingForEveryone Website Repo
 
 #### Our aim is to create a website that:
- -  ** Add aims from gitter group **
+ - Introduce newcomers to 'coding for everyone'. I.e. the principles and concept.
+ - Advise users on the timetabling for the weekly meetups, or at least link users to the meetup.com page.
+ - Coordinate the already available resources, i.e. point people in the direction of the github and gitter groups to help people integrate.
+ - Provide beginners with useful resources for starting their venture into coding.
 
 ####  Website Tree (this will change):
 
