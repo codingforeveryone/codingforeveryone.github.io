@@ -1,5 +1,7 @@
 # CodingForEveryone Website Repo
 
+##### View the site [here](codingforeveryone.github.io/site)
+
 ### Our aim is to create a website that:
  - Introduce newcomers to 'coding for everyone'. I.e. the principles and concept.
  - Advise users on the timetabling for the weekly meetups, or at least link users to the meetup.com page.
@@ -16,7 +18,7 @@
 |-- Contact
 ```
 
-### To View Site:
+### To Run the site locally:
 
 1) Clone repo to your local directory:
 
