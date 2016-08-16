@@ -25,6 +25,14 @@ git clone https://github.com/codingforeveryone/codingforeveryone.github.io.git
 ```
 2) Open the index.html file in your browser of choice
 
+### Technologies/Packages Used
+
+- HTML
+- CSS (written using SASS)
+- Bootstrap (for CSS framework)
+- js (jquery)
+- Font-awesome (for icons)
+
 ### If anyone has any recommendations for the project, please do voice them in the gitter room :)
 
 [![Join the chat at https://gitter.im/codingforeveryone/codingforeveryone.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codingforeveryone/codingforeveryone.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
