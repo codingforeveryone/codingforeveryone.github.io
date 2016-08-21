@@ -26,8 +26,8 @@ git clone https://github.com/codingforeveryone/codingforeveryone.github.io.git
 - Vanilla javascript
 - Jekyll
 
-### If you can see any changes we should make or would like to contribute to the project have a look at our [issues](https://github.com/codingforeveryone/codingforeveryone.github.io/issues)
+#### If you can see any changes we should make or would like to contribute to the project have a look at our [issues](https://github.com/codingforeveryone/codingforeveryone.github.io/issues)
 
-### See our [wiki](https://github.com/codingforeveryone/codingforeveryone.github.io/wiki) for:
+#### See our [wiki](https://github.com/codingforeveryone/codingforeveryone.github.io/wiki) for:
 - Development rules and guidelines
 - File structure
