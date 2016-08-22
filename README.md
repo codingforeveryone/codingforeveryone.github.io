@@ -2,11 +2,13 @@
 
 [![Join the chat at https://gitter.im/codingforeveryone/codingforeveryone.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codingforeveryone/codingforeveryone.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+View the 'concept' site [here](http://codingforeveryone.github.io/site/).
+
 ## What
 
 This repo hosts the Coding for Everyone website.
 
-View the 'concept' site [here](http://codingforeveryone.github.io/site/).
+Coding for Everyone is a community for those learning to code. Participants can interact though the [Monday meetups](www.meetups.com/founderscoders/) and/or the [gitter community](https://gitter.im/codingforeveryone/).
 
 ## Why
 
