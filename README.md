@@ -8,7 +8,7 @@ View the 'concept' site [here](http://codingforeveryone.github.io/site/).
 
 This repo hosts the Coding for Everyone website.
 
-Coding for Everyone is a community for those learning to code. Participants can interact though the [Monday meetups](www.meetups.com/founderscoders/) and/or the [gitter community](https://gitter.im/codingforeveryone/).
+Coding for Everyone is a community for those learning to code. Participants can interact though the [Monday meetups](http://meetups.com/founderscoders/) and/or the [gitter community](https://gitter.im/codingforeveryone/).
 
 ## Why
 
