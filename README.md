@@ -2,24 +2,23 @@
 
 [![Join the chat at https://gitter.im/codingforeveryone/codingforeveryone.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codingforeveryone/codingforeveryone.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-#### View the site [here](http://codingforeveryone.github.io/site/)
+## What
 
-### Our aim is to create a website that:
+This repo hosts the Coding for Everyone website.
+
+View the 'concept' site [here](http://codingforeveryone.github.io/site/).
+
+## Why
+
  - Introduce newcomers to 'coding for everyone'. I.e. the principles and concept.
  - Advise users on the timetabling for the weekly meetups, or at least link users to the meetup.com page.
  - Coordinate the already available resources, i.e. point people in the direction of the github and gitter groups to help people integrate.
  - Provide beginners with useful resources for starting their venture into coding.
 
-### To Run the site locally:
 
-1) Clone repo to your local directory:
+## How
 
-```
-git clone https://github.com/codingforeveryone/codingforeveryone.github.io.git
-```
-2) Open the index.html file in your browser of choice
-
-### Technologies Used
+Currently the ['concept' site](http://codingforeveryone.github.io/site/) is written using the bootstrap framework and jquery library. The final site will be written using the following:
 
 - HTML
 - CSS (written using SASS)
