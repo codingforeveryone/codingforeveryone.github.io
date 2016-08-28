@@ -1,8 +1,9 @@
 <html>
-  <head>
-    <title>{{ page.title }}</title>
-  </head>
+  {% include head.html %}
   <body>
-    {{ content }}
+    {% include header.html %}
+    <div>
+      {{ content }}
+    </div>
   </body>
 </html>
