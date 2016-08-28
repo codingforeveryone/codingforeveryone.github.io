@@ -1,0 +1,68 @@
+
+body {
+  background: url(/img/coding-bg.jpg) no-repeat bottom center scroll  ;
+  background-color: black;
+  background-size: cover;
+  color:#E4E6E7;
+  font-family: "Lora","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
+h1 {
+  font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 70px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+p {
+  font-size: 26px;
+}
+
+.container {
+  margin: auto;
+  width: 30%;
+  text-align: center;
+  margin-top: 12%;
+}
+
+.container p {
+  width: 70%;
+  margin: auto;
+
+}
+
+nav {
+  text-transform: uppercase;
+  margin: auto;
+  margin-top: 35px;
+}
+
+nav ul {
+  list-style: none;
+  text-align: center;
+  width: 90%;
+  margin: auto;
+
+}
+
+#nav-title a {
+  margin-right: 500px;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+nav>ul>li {
+  font-family: "Lora","Helvetica Neue",Helvetica,Arial,sans-serif;
+  display: inline-block;
+  margin-right: 40px;
+  font-weight: 500;
+
+
+}
+
+nav a {
+  color:#E4E6E7;
+  text-decoration: none;
+}
