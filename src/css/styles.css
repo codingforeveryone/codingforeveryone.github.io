@@ -1,3 +1,33 @@
+
+body {
+  background: url(/img/coding-bg.jpg) no-repeat bottom center scroll  ;
+  background-color: black;
+  background-size: cover;
+  color:#E4E6E7;
+  font-family: "Lora","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
 h1 {
-  color:white;
+  font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 70px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+p {
+  font-size: 26px;
+}
+
+.container {
+  margin: auto;
+  width: 30%;
+  text-align: center;
+  margin-top: 15%;
+}
+
+.container p {
+  width: 70%;
+  margin: auto;
+
 }
