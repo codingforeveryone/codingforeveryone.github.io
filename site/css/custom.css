@@ -3,7 +3,8 @@ body {
   height: 100%;
   font-family: "Lora","Helvetica Neue",Helvetica,Arial,sans-serif;
   color: white;
-  background-color: black; }
+  background-color: black;
+  cursor: default; }
 
 html {
   width: 100%;
